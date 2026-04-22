@@ -124,52 +124,53 @@ project-root/
 
 ## 📸 Screenshots
 
-### 📝 Create Account
-![Create Account](src/main/webapp/images/create_acc.png)
+### 🔐 Login Page
+![Login](InternshipExamSystem/src/main/webapp/images/login.png)
 
 ---
 
-### 🔐 Login Page
-![Login](src/main/webapp/images/login.png)
+### 📝 Create Account
+![Create Account](InternshipExamSystem/src/main/webapp/images/create_acc.png)
 
 ---
 
 ### 📊 Student Dashboard
-![Dashboard](src/main/webapp/images/dashboard.png)
+![Dashboard](InternshipExamSystem/src/main/webapp/images/dashboard.png)
 
 ---
 
 ### 🏢 Browse Internships
-![Internships](src/main/webapp/images/internships.png)
+![Internships](InternshipExamSystem/src/main/webapp/images/internships.png)
 
 ---
 
 ### 📄 Applications
-![Applications](src/main/webapp/images/applications.png)
+![Applications](InternshipExamSystem/src/main/webapp/images/applications.png)
 
 ---
 
 ### 🧪 Online Exam
-![Exam](src/main/webapp/images/exam.png)
+![Exam](InternshipExamSystem/src/main/webapp/images/exam.png)
 
 ---
 
 ### 🏆 Certificate
-![Certificate](src/main/webapp/images/certificate.png)
+![Certificate](InternshipExamSystem/src/main/webapp/images/certificate.png)
 
 ---
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](src/main/webapp/images/admin_dashboard.png)
+![Admin Dashboard](InternshipExamSystem/src/main/webapp/images/admin_dashboard.png)
 
 ---
 
+
 ### 📈 Reports Dashboard
-![Reports](src/main/webapp/images/reports.png)
+![Reports](InternshipExamSystem/src/main/webapp/images/reports.png)
 
-![Reports 1](src/main/webapp/images/reports1.png)
+![Reports 1](InternshipExamSystem/src/main/webapp/images/reports1.png)
 
-![Reports 2](src/main/webapp/images/reports2.png)
+![Reports 2](InternshipExamSystem/src/main/webapp/images/reports2.png)
 
 ---
 
