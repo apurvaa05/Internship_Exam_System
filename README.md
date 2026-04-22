@@ -108,69 +108,70 @@ Server:
 
 project-root/
 
-├── controller/        (Servlets - Business Logic)  
-├── dao/               (Database Operations)  
-├── util/              (DBConnection, AuditLogger)  
-├── webapp/  
-│   ├── *.jsp          (Frontend Pages)  
-│   ├── css/           (Styles)  
-│   ├── js/            (Scripts)  
-└── database/  
-    └── schema.sql     (Database Schema)  
+├── controller/  
+├── dao/  
+├── util/  
+├── src/  
+│   └── main/  
+│       └── webapp/  
+│           ├── *.jsp  
+│           ├── css/  
+│           ├── js/  
+│           └── images/  
+└── README.md  
 
 ---
 
 ## 📸 Screenshots
 
-
 ### 📝 Create Account
-![Create Account](images/create_acc.png)
+![Create Account](src/main/webapp/images/create_acc.png)
 
 ---
 
 ### 🔐 Login Page
-![Login](images/login.png)
+![Login](src/main/webapp/images/login.png)
 
 ---
 
 ### 📊 Student Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](src/main/webapp/images/dashboard.png)
 
 ---
 
 ### 🏢 Browse Internships
-![Internships](images/internships.png)
+![Internships](src/main/webapp/images/internships.png)
 
 ---
 
 ### 📄 Applications
-![Applications](images/applications.png)
+![Applications](src/main/webapp/images/applications.png)
 
 ---
 
 ### 🧪 Online Exam
-![Exam](images/exam.png)
+![Exam](src/main/webapp/images/exam.png)
 
 ---
 
 ### 🏆 Certificate
-![Certificate](images/certificate.png)
+![Certificate](src/main/webapp/images/certificate.png)
 
 ---
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](images/admin_dashboard.png) 
+![Admin Dashboard](src/main/webapp/images/admin_dashboard.png)
 
 ---
 
 ### 📈 Reports Dashboard
-![Reports](images/reports.png)
+![Reports](src/main/webapp/images/reports.png)
 
-![Reports 1](images/reports1.png)
+![Reports 1](src/main/webapp/images/reports1.png)
 
-![Reports 2](images/reports2.png)
+![Reports 2](src/main/webapp/images/reports2.png)
 
-
+---
 
 ## 🧠 System Architecture
 
