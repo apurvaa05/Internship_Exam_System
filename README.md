@@ -120,26 +120,6 @@ project-root/
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository  
-   git clone https://github.com/your-username/your-repo-name.git  
-
-2. Import into IDE (Eclipse / IntelliJ)
-
-3. Configure Apache Tomcat Server  
-
-4. Setup MySQL Database  
-   - Create a database  
-   - Run schema.sql  
-
-5. Update database credentials in  
-   DBConnection.java  
-
-6. Run the project on Tomcat Server  
-
----
-
 ## 📸 Screenshots
 
 
